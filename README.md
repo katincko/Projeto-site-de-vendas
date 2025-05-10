@@ -1,69 +1,48 @@
-# Orientações
+---
 
-## body
-1. background-color: #f4f4f4;
-2. color: #2c3e50;
+# Projeto Site de Vendas
 
-## header
-1. background-color: #2c3e50;
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## .logo
-1. color: #f1c40f;
+## Sobre o Projeto
 
-## .menu li a
-1. color: #f1c40f;
+Este projeto foi desenvolvido como parte do curso do **SENAI RJ** e tem como objetivo principal o desenvolvimento de habilidades em **HTML5** e **CSS3**.  
+Não se trata de um projeto real, mas de um exercício educacional para praticar conceitos fundamentais de **estruturação de páginas web** e **estilização de layouts**.
 
-## .secao h1, secao h2
-1. color: #2c3e50;
+---
 
-## .card
-1. background-color: #fff;
-2. border: 1px solid #ccc;
-3. width: 220px;
-4. box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+## Recursos Praticados
 
-## .card button
-1. border: none;
-2. background-color: #f1c40f;
-3. color: #2c3e50;
-4. cursor: pointer;
+- Estruturação de conteúdo com HTML5.
+- Estilização e design responsivo com CSS3.
+- Uso de boas práticas de codificação front-end.
 
-## footer
-1. background-color: #2c3e50;
-2. color: white;
+---
 
-## footer a
-1. color: #f1c40f;
+## Como Visualizar o Projeto
 
-## footer a:hover
-1. text-decoration: underline;
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/katincko/Projeto-site-de-vendas.git
+   ```
+2. Acesse o diretório do projeto:
+   ```bash
+   cd Projeto-site-de-vendas
+   ```
+3. Abra o arquivo `index.html` no seu navegador para visualizar.
 
-## .depoimentos
-1. background-color: #ffffff;
+---
 
-## .depoimento-lista
-1. display: flex;
-2. justify-content: center;
-3. flex-wrap: wrap;
+## Licença
 
-## .depoimento strong
-1. color: #2c3e50;
+Este projeto é apenas educacional e não possui licença para uso comercial.
 
-## responsividade
-@media (max-width: 768px) {
-  .menu {
-    flex-direction: column;
-    align-items: flex-end;
-    gap: 10px;
-  }
+---
+Aqui está o que você pode adicionar ao final do seu README:
 
-  .produtos, .depoimento-lista {
-    flex-direction: column;
-    align-items: center;
-  }
+---
 
-  footer {
-    flex-direction: column;
-    align-items: center;
-  }
-}
+**Feito com amor por Katincko e Wendell.** ❤️  
+
+Trabalho realizado em dupla com o usuário do GitHub [@wendellrochaa](https://github.com/wendellrochaa).
